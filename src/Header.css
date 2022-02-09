@@ -1,0 +1,21 @@
+.header__left img{
+    height:40px;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 2px solid black;
+
+}
+.header__left{
+    display: flex;
+}
+.header__input{
+    display: flex;
+}
+.header__input .searchicon{
+padding: 10px;
+}
+.header__options{
+padding: 20px 40px; 
+}
